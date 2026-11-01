@@ -41,8 +41,6 @@ Currently, I'm strengthening my expertise in **AWS Cloud, DevOps Engineering, In
 - Payment Gateway Integrations
 
 **Other Technologies**
-- Servoy
-- Oracle APEX
 - Git & GitHub
 
 ---
@@ -79,9 +77,9 @@ Developing practical experience in containerization, automated CI/CD pipelines, 
 I'm interested in collaborating with international teams, contributing to challenging engineering projects, and exploring opportunities in Software Development, Cloud Engineering, and DevOps.
 
 - 🌐 Portfolio: https://choi-solutions.com
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/)
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/jchoisu/)
 - 📍 Location: Suriname
-- 📧 Email: [Your professional email]
+- 📧 Email: jasonchoi.work.dev@gmail.com
 
 ---
 
