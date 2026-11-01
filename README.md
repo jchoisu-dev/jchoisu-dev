@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="assets/github-banner.png"
+    alt="Jason Choi - Software Developer"
+    width="100%"
+  />
+</p>
+
 ### Software Developer | AWS & DevOps | Full-Stack Development | AI Integration
 
 I'm a Software Developer based in Suriname, experienced in building, integrating, deploying, and maintaining software applications for international clients.
